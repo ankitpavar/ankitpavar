@@ -20,9 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpavar&show_icons=true" alt="ankitpavar" /></p>
 
 <p align="center">
-<a href="https://codepen.io/@ankitpavar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@ankitpavar" height="30" width="30" /></a>
-<a href="https://dev.to/@geekyanky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@geekyanky" height="30" width="30" /></a>
-<a href="https://twitter.com/@ankitpavar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ankitpavar" height="30" width="30" /></a>
+<a href="https://codepen.io/ankitpavar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ankitpavar" height="30" width="30" /></a>
+<a href="https://dev.to/geekyanky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="geekyanky" height="30" width="30" /></a>
+<a href="https://twitter.com/ankitpavar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ankitpavar" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ankit-pavar-8bb9a7199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit-pavar-8bb9a7199" height="30" width="30" /></a>
 <a href="https://fb.com/ankit.pavar.03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ankit.pavar.03" height="30" width="30" /></a>
 <a href="https://instagram.com/ankit_pavar_03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankit_pavar_03" height="30" width="30" /></a>

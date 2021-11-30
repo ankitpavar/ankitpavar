@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Instagram Clone](https://insta-clone-phi.vercel.app/)
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **Backend development with Node**
 
 - 👨‍💻 All of my projects are available at [github.com/ankitpavar](github.com/ankitpavar)
 

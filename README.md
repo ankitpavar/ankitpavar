@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Pavar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpavar" alt="ankitpavar" /> </p>
 
-- 🔭 I’m currently working on [Instagram Clone](https://insta-clone-phi.vercel.app/)
+- 🔭 I’m currently working at Spacecode Techmologies.
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [github.com/ankitpavar](github.com/ankitpavar)
 

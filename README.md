@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Pavar</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpavar" alt="ankitpavar" /> </p>
 
-- 🔭 I’m currently working at Spacecode Techmologies.
 
 - 🌱 I’m currently learning **GraphQL**
 
